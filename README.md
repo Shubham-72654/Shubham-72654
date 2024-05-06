@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-72654
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning programming languages
+- 🌱 I’m have knowledge of PHP, Laravel, Codeigniter, React Js, C programming, C++, Java, Javascript, Ajax, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by 9039694974
 
